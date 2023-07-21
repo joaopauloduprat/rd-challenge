@@ -50,7 +50,7 @@ $ cd rd-challenge
 No terminal, execute os comandos:
 
 ```bash
-cd javascript
+cd rd-challenge
 yarn
 yarn test
 ```
@@ -58,7 +58,7 @@ yarn test
 Ou usando o NPM:
 
 ```bash
-cd javascript
+cd rd-challenge
 npm install
 npm test
 ```
