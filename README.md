@@ -1,9 +1,9 @@
 <h1 align="center">
-     :blue_book: <a href="#"> RD Station Developer Challenge </a>
+     :memo: <a href="#"> RD Station Developer Challenge </a>
 </h1>
 
 <h3 align="center">
-    :books: Desafio técnico para processo de seleção :books:
+    :zap: Desafio técnico para processo de seleção :zap:
 </h3>
 
 <h4 align="center">
