@@ -6,10 +6,6 @@
     :zap: Desafio técnico para processo de seleção :zap:
 </h3>
 
-<h4 align="center">
-	🚧 Concluído 🚧
-</h4>
-
 # Tabela de conteúdos
 
 <!--ts-->
