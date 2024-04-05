@@ -23,7 +23,7 @@
 
 Desafio desenvolvido pela empresa **RD Station** como forma de testar os conhecimentos técnicos do candidato em processo de seleção.
 
-O desafio consiste em desenvolver um código em javascript que atenda aos requisitos listados em https://tech.rdstation.com/ e passe nos testes criados na aplicação.
+O desafio consiste em desenvolver um código que atenda aos requisitos listados em https://tech.rdstation.com/ e passe nos testes criados na aplicação.
 
 ---
 
@@ -43,21 +43,10 @@ $ cd rd-challenge
 
 ### 🧪 Executando testes
 
-No terminal, execute os comandos:
+Dentro de cada pasta da linguagem escolhida, estao as instrucoes para realizar os testes:
 
-```bash
-cd rd-challenge
-yarn
-yarn test
-```
-
-Ou usando o NPM:
-
-```bash
-cd rd-challenge
-npm install
-npm test
-```
+- **[Go](https://github.com/joaopauloduprat/rd-challenge/blob/main/go)**
+- **[Javascript](https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript)**
 
 ---
 
@@ -67,7 +56,7 @@ As seguintes ferramentas foram usadas na construção do desafio:
 
 - **[Jest](https://jestjs.io/)**
 
-> Veja o arquivo [package.json](https://github.com/joaopauloduprat/rd-challenge/blob/main/package.json)
+> Veja o arquivo [package.json](https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript/package.json)
 
 ---
 
