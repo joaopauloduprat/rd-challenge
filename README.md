@@ -45,8 +45,8 @@ $ cd rd-challenge
 
 Dentro de cada pasta da linguagem escolhida, estao as instrucoes para realizar os testes:
 
-**[Go](https://github.com/joaopauloduprat/rd-challenge/blob/main/go)**
-**[Javascript](https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript)**
+- **[Go](https://github.com/joaopauloduprat/rd-challenge/blob/main/go)**
+- **[Javascript](https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript)**
 
 ---
 
