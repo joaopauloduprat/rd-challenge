@@ -36,10 +36,8 @@ O desafio consiste em desenvolver um código que atenda aos requisitos listados 
 # Clone este repositório em uma pasta de sua preferencia
 $ git clone https://github.com/joaopauloduprat/rd-challenge.git
 
-# Acesse a pasta do desafio no terminal/cmd de acordo com a linguagem de programacao (javascript/go) escolhida para o desafio
-$ cd rd-challenge/javascript
-#ou
-$ cd rd-challenge/go
+# Acesse a pasta do desafio no terminal/cmd
+$ cd rd-challenge
 
 ```
 
@@ -47,8 +45,8 @@ $ cd rd-challenge/go
 
 Dentro de cada pasta da linguagem escolhida, estao as instrucoes para realizar os testes.
 
-> Go: (https://github.com/joaopauloduprat/rd-challenge/go)
-> Javascript: (https://github.com/joaopauloduprat/rd-challenge/javascript)
+Go: (https://github.com/joaopauloduprat/rd-challenge/blob/main/go)
+Javascript: (https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript)
 
 ---
 
@@ -58,7 +56,7 @@ As seguintes ferramentas foram usadas na construção do desafio:
 
 - **[Jest](https://jestjs.io/)**
 
-> Veja o arquivo [package.json](https://github.com/joaopauloduprat/rd-challenge/blob/main/package.json)
+> Veja o arquivo [package.json](https://github.com/joaopauloduprat/rd-challenge/blob/main/javascript/package.json)
 
 ---
 
